@@ -1,0 +1,21 @@
+2023-04-22 18:22:16 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:23:32 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:23:56 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:24:23 - [32minfo[39m: [32mConnected[39m
+2023-04-22 18:24:23 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:25:16 - [32minfo[39m: [32mConnected[39m
+2023-04-22 18:25:16 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:25:20 - [32minfo[39m: [32mConnected[39m
+2023-04-22 18:25:20 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:25:30 - [32minfo[39m: [32mConnected[39m
+2023-04-22 18:25:30 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:25:37 - [31merror[39m: [31mnao foi possivel conectar[39m
+2023-04-22 18:25:37 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.9ajgrm.mongodb.net[39m
+2023-04-22 18:25:37 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:25:48 - [32minfo[39m: [32mConnected[39m
+2023-04-22 18:25:48 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:26:09 - [32minfo[39m: [32mConnected[39m
+2023-04-22 18:26:09 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 18:26:16 - [31merror[39m: [31mnao foi possivel conectar[39m
+2023-04-22 18:26:43 - [32minfo[39m: [32mConnected[39m
+2023-04-22 18:26:43 - [32minfo[39m: [32mhttp://localhost:3000[39m
