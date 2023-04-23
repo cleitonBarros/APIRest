@@ -77,3 +77,466 @@
 2023-04-22 19:51:09 - [32minfo[39m: [32mhttp://localhost:3000[39m
 2023-04-22 19:51:18 - [32minfo[39m: [32mConnected[39m
 2023-04-22 19:51:18 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-22 19:51:42 - [32minfo[39m: [32mConnected[39m
+2023-04-22 19:51:42 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:07:03 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:07:03 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:14:31 - [35mhttp[39m: [35mGET /api/movie 404 - - 2.702 ms[39m
+[35m[39m
+2023-04-23 13:14:41 - [35mhttp[39m: [35mGET /api/test 200 - - 3.092 ms[39m
+[35m[39m
+2023-04-23 13:15:29 - [35mhttp[39m: [35mGET /api/movie 404 - - 0.409 ms[39m
+[35m[39m
+2023-04-23 13:15:38 - [35mhttp[39m: [35mPOST /api/movie 422 - - 6.465 ms[39m
+[35m[39m
+2023-04-23 13:15:49 - [35mhttp[39m: [35mPOST /api/movie 422 - - 1.112 ms[39m
+[35m[39m
+2023-04-23 13:16:21 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:16:21 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:16:34 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:16:34 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:16:50 - [35mhttp[39m: [35mPOST /api/movie 422 - - 6.968 ms[39m
+[35m[39m
+2023-04-23 13:17:25 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:17:25 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:17:33 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:17:33 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:17:42 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:17:42 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:17:55 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:17:55 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:18:12 - [35mhttp[39m: [35mPOST /api/movie 422 - - 6.601 ms[39m
+[35m[39m
+2023-04-23 13:18:44 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:18:44 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:18:55 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:18:55 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:19:07 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:19:07 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:19:13 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:19:13 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:19:26 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:19:26 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:19:44 - [35mhttp[39m: [35mPOST /api/movie 422 - - 6.612 ms[39m
+[35m[39m
+2023-04-23 13:20:08 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:20:08 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:20:43 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:20:43 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:20:49 - [35mhttp[39m: [35mPOST /api/movie 422 - - 12.825 ms[39m
+[35m[39m
+2023-04-23 13:23:30 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:23:30 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:23:39 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:23:39 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:25:37 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:25:37 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:25:55 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:25:55 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:26:03 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:26:03 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:29:47 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:29:47 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:30:00 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:30:00 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:32:38 - [35mhttp[39m: [35mPOST /api/movie 422 - - 7.678 ms[39m
+[35m[39m
+2023-04-23 13:34:37 - [35mhttp[39m: [35mPOST /api/movie 422 - - 4.033 ms[39m
+[35m[39m
+2023-04-23 13:34:51 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:34:51 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:34:56 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:34:56 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:35:11 - [35mhttp[39m: [35mPOST /api/movie 422 - - 6.543 ms[39m
+[35m[39m
+2023-04-23 13:35:32 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:35:32 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:36:15 - [35mhttp[39m: [35mPOST /api/movie 422 - - 6.541 ms[39m
+[35m[39m
+2023-04-23 13:36:49 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:36:49 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:37:08 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:37:08 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:37:22 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:37:22 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:37:31 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:37:32 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:37:43 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:37:43 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:38:00 - [35mhttp[39m: [35mGET / 404 - - 4.162 ms[39m
+[35m[39m
+2023-04-23 13:38:44 - [35mhttp[39m: [35mPOST /api/movie 422 - - 16.573 ms[39m
+[35m[39m
+2023-04-23 13:39:33 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:39:33 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:39:38 - [35mhttp[39m: [35mPOST /api/movie 422 - - 18.965 ms[39m
+[35m[39m
+2023-04-23 13:43:49 - [35mhttp[39m: [35mPOST /api/movie 422 - - 7.053 ms[39m
+[35m[39m
+2023-04-23 13:44:52 - [35mhttp[39m: [35mPOST /api/movie 422 - - 6.638 ms[39m
+[35m[39m
+2023-04-23 13:44:58 - [35mhttp[39m: [35mPOST /api/movie 422 - - 7.086 ms[39m
+[35m[39m
+2023-04-23 13:45:11 - [35mhttp[39m: [35mPOST /api/movie 201 - - 200.461 ms[39m
+[35m[39m
+2023-04-23 13:46:40 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:46:40 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 13:49:01 - [32minfo[39m: [32mConnected[39m
+2023-04-23 13:49:01 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 14:18:23 - [32minfo[39m: [32mConnected[39m
+2023-04-23 14:18:23 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 14:18:48 - [32minfo[39m: [32mConnected[39m
+2023-04-23 14:18:48 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 14:19:01 - [32minfo[39m: [32mConnected[39m
+2023-04-23 14:19:01 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 14:19:05 - [32minfo[39m: [32mConnected[39m
+2023-04-23 14:19:05 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 14:19:25 - [32minfo[39m: [32mConnected[39m
+2023-04-23 14:19:25 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 14:19:34 - [32minfo[39m: [32mConnected[39m
+2023-04-23 14:19:34 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 14:19:41 - [35mhttp[39m: [35mPOST /api/movie 422 - - 44.880 ms[39m
+[35m[39m
+2023-04-23 14:19:51 - [35mhttp[39m: [35mPOST /api/movie 201 - - 190.182 ms[39m
+[35m[39m
+2023-04-23 14:19:56 - [35mhttp[39m: [35mPOST /api/movie 201 - - 163.520 ms[39m
+[35m[39m
+2023-04-23 14:20:34 - [32minfo[39m: [32mConnected[39m
+2023-04-23 14:20:34 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 14:20:42 - [35mhttp[39m: [35mPOST /api/movie 201 - - 194.189 ms[39m
+[35m[39m
+2023-04-23 14:20:48 - [35mhttp[39m: [35mPOST /api/movie 201 - - 156.673 ms[39m
+[35m[39m
+2023-04-23 14:21:07 - [32minfo[39m: [32mConnected[39m
+2023-04-23 14:21:07 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 14:21:08 - [35mhttp[39m: [35mPOST /api/movie 422 - - 15.960 ms[39m
+[35m[39m
+2023-04-23 14:21:12 - [35mhttp[39m: [35mPOST /api/movie 422 - - 5.801 ms[39m
+[35m[39m
+2023-04-23 15:03:08 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:03:08 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:03:43 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:03:43 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:03:50 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:03:50 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:04:16 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:04:16 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:04:34 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:04:34 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:04:39 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:04:39 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:04:43 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:04:43 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:04:51 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:04:51 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:04:55 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:04:55 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:05:48 - [35mhttp[39m: [35mPOST /api/movie 201 - - 193.851 ms[39m
+[35m[39m
+2023-04-23 15:05:59 - [35mhttp[39m: [35mPOST /api/movie 422 - - 6.229 ms[39m
+[35m[39m
+2023-04-23 15:06:51 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:06:51 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:07:04 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:07:04 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:07:20 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:07:20 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:07:26 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:07:26 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:07:46 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:07:46 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:08:06 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:08:06 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:10:35 - [35mhttp[39m: [35mPOST /api/movie 201 - - 196.827 ms[39m
+[35m[39m
+2023-04-23 15:12:15 - [35mhttp[39m: [35mPOST /api/movie 201 - - 151.118 ms[39m
+[35m[39m
+2023-04-23 15:13:33 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:13:33 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:13:44 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:13:44 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:13:49 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:13:49 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:13:58 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:13:58 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:14:04 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:14:04 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:14:28 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:14:28 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:14:50 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:14:50 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:15:14 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:15:14 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:15:44 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:15:44 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:15:59 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:15:59 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:16:04 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:16:04 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:16:10 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:16:10 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:16:25 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:16:25 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:16:45 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:16:45 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:18:43 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a80bp" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:18:53 - [35mhttp[39m: [35mGET /api/movie/644574ff22a90a70721a80bp - - - - ms[39m
+[35m[39m
+2023-04-23 15:18:57 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a80bp" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:19:49 - [35mhttp[39m: [35mGET /api//movie/644574ff22a90a70721a80bp - - - - ms[39m
+[35m[39m
+2023-04-23 15:30:52 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:30:52 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:30:56 - [35mhttp[39m: [35mGET /api//movie/644574ff22a90a70721a80b3 404 - - 194.603 ms[39m
+[35m[39m
+2023-04-23 15:31:05 - [35mhttp[39m: [35mGET /api//movie/644574ff22a90a70721a80b 404 - - 163.424 ms[39m
+[35m[39m
+2023-04-23 15:31:23 - [35mhttp[39m: [35mGET /api//movie/%20%22644574ff22a90a70721a80b3%22 404 - - 169.062 ms[39m
+[35m[39m
+2023-04-23 15:31:28 - [35mhttp[39m: [35mGET /api//movie/644574ff22a90a70721a80b3 404 - - 166.983 ms[39m
+[35m[39m
+2023-04-23 15:31:30 - [35mhttp[39m: [35mGET /api/movie/644574ff22a90a70721a80b3 404 - - 154.976 ms[39m
+[35m[39m
+2023-04-23 15:31:46 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:31:46 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:32:35 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:32:35 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:32:45 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:32:45 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:32:49 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:32:49 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:33:02 - [35mhttp[39m: [35mGET /api/movie/644574ff22a90a70721a80b3 200 - - 184.411 ms[39m
+[35m[39m
+2023-04-23 15:34:03 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:34:03 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:34:11 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:34:11 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:34:29 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:34:29 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:34:52 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:34:52 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:34:59 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:34:59 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:35:06 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:35:06 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:35:35 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:35:35 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:35:41 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:35:41 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:35:47 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:35:47 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:36:46 - [35mhttp[39m: [35mGET /api/movie 200 - - 229.671 ms[39m
+[35m[39m
+2023-04-23 15:37:47 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:37:47 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:37:57 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:37:57 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:38:04 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:38:04 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:38:39 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:38:39 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:38:44 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:38:44 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:38:49 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:38:49 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:38:55 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:38:55 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:38:59 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:38:59 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:39:33 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:39:33 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:39:47 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:39:47 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:40:05 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:40:05 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:40:11 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:40:11 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:40:26 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:40:26 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:40:37 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:40:37 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:40:47 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:40:47 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:41:02 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:41:02 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:41:08 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:41:08 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:41:16 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:41:16 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:41:24 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:41:24 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:42:20 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:42:20 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:57:19 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:57:19 - [35mhttp[39m: [35mDELETE /api/movie/6444610de49ff2f7c4d5eb1 500 - - 12.592 ms[39m
+[35m[39m
+2023-04-23 15:58:04 - [35mhttp[39m: [35mDELETE /api/movie/6444610de49ff2f7c4d5eb16 200 - - 177.637 ms[39m
+[35m[39m
+2023-04-23 15:58:11 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:58:11 - [35mhttp[39m: [35mDELETE /api/movie/6444610de49ff2f7c4d5eb1 500 - - 3.190 ms[39m
+[35m[39m
+2023-04-23 15:58:37 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:58:37 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:58:38 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:58:56 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:58:56 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:59:00 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:59:12 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:59:12 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:59:13 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:59:25 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:59:25 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:59:31 - [32minfo[39m: [32mConnected[39m
+2023-04-23 15:59:31 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 15:59:39 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:00:27 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:00:27 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:03:53 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:03:53 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:03:57 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:03:57 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:04:06 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:04:06 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:04:11 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:04:11 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:05:15 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:05:15 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:05:25 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:05:25 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:05:38 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:05:38 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:05:43 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:05:43 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:05:47 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:05:47 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:05:51 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:05:51 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:06:08 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:06:08 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:06:15 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:06:15 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:06:19 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:06:19 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:06:28 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:06:28 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:06:36 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:06:36 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:06:42 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:06:42 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:08:02 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:08:02 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:08:06 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:08:06 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:09:02 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:09:02 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:09:06 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:09:06 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:09:17 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:09:17 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:09:28 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:09:28 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:09:35 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:09:35 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:09:53 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:09:53 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:09:56 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:09:56 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:10:04 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:10:04 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:10:21 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:10:21 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:10:43 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:10:43 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:11:38 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "445154" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:11:51 - [35mhttp[39m: [35mGET /api/movie/644574ff22a90a70721a80b3 200 - - 162.337 ms[39m
+[35m[39m
+2023-04-23 16:11:55 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:11:58 - [35mhttp[39m: [35mGET /api/movie/644574ff22a90a70721a - - - - ms[39m
+[35m[39m
+2023-04-23 16:12:12 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:12:12 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:12:15 - [35mhttp[39m: [35mGET /api/movie/644574ff22a90a70721a80b3 404 - - 161.144 ms[39m
+[35m[39m
+2023-04-23 16:12:23 - [35mhttp[39m: [35mGET /api/movie/%22644574ff22a90a70721a80b3%22 404 - - 140.103 ms[39m
+[35m[39m
+2023-04-23 16:12:30 - [35mhttp[39m: [35mGET /api/movie/644574ff22a90a70721a80b 404 - - 140.811 ms[39m
+[35m[39m
+2023-04-23 16:12:42 - [35mhttp[39m: [35mGET /api//movie/644574ff22a90a70721a80b3 404 - - 145.254 ms[39m
+[35m[39m
+2023-04-23 16:12:54 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:12:54 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:13:41 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:13:41 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:13:48 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:13:48 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:13:52 - [35mhttp[39m: [35mGET /api//movie/644574ff22a90a70721a80b3 200 - - 152.950 ms[39m
+[35m[39m
+2023-04-23 16:13:57 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a80b" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:13:59 - [35mhttp[39m: [35mGET /api//movie/644574ff22a90a70721a80b - - - - ms[39m
+[35m[39m
+2023-04-23 16:14:14 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:14:14 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:14:29 - [35mhttp[39m: [35mGET /api//movie/644574ff22a90a70721a80b 404 - - 160.662 ms[39m
+[35m[39m
+2023-04-23 16:14:32 - [35mhttp[39m: [35mGET /api//movie/644574ff22a90a70721a80b 404 - - 158.708 ms[39m
+[35m[39m
+2023-04-23 16:14:49 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:14:49 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:14:54 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:14:54 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:14:58 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:14:58 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:15:01 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:15:01 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:15:08 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:15:08 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:15:22 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value " 644574ff22a90a70721a80b3" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:15:30 - [35mhttp[39m: [35mGET /api/movie/%20644574ff22a90a70721a80b3 - - - - ms[39m
+[35m[39m
+2023-04-23 16:15:31 - [35mhttp[39m: [35mGET /api/movie/644574ff22a90a70721a80b3 200 - - 179.368 ms[39m
+[35m[39m
+2023-04-23 16:15:37 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a80b" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:16:45 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "445154" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:16:55 - [35mhttp[39m: [35mPATCH /api/movie/445154 - - - - ms[39m
+[35m[39m
+2023-04-23 16:16:58 - [35mhttp[39m: [35mGET /api/movie/644574ff22a90a70721a80b - - - - ms[39m
+[35m[39m
+2023-04-23 16:17:25 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:17:25 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:17:35 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:17:35 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:17:41 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:17:41 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:17:47 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:17:47 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:18:12 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:18:12 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:18:15 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:18:15 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:18:21 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:18:21 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:18:35 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:18:35 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:18:42 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:18:45 - [35mhttp[39m: [35mDELETE /api/movie/6444610de49ff2f7c4d5eb1 - - - - ms[39m
+[35m[39m
+2023-04-23 16:18:48 - [35mhttp[39m: [35mDELETE /api/movie/6444610de49ff2f7c4d5eb16 200 - - 298.611 ms[39m
+[35m[39m
+2023-04-23 16:19:22 - [35mhttp[39m: [35mDELETE /api/movie/6444610de49ff2f7c4d5eb16 404 - - 144.708 ms[39m
+[35m[39m
+2023-04-23 16:19:27 - [35mhttp[39m: [35mDELETE /api/movie/644560970074b245b136c9e0 200 - - 286.495 ms[39m
+[35m[39m
+2023-04-23 16:19:56 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:19:56 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:19:59 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:19:59 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:20:02 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:20:02 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:20:14 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:20:14 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:21:01 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:21:01 - [32minfo[39m: [32mhttp://localhost:3000[39m
+2023-04-23 16:25:44 - [35mhttp[39m: [35mPATCH /api/movie/644568bcc678b64b75e33d24 200 - - 333.696 ms[39m
+[35m[39m
+2023-04-23 16:26:49 - [32minfo[39m: [32mConnected[39m
+2023-04-23 16:26:49 - [32minfo[39m: [32mhttp://localhost:3000[39m

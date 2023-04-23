@@ -1,3 +1,18 @@
 2023-04-22 18:25:37 - [31merror[39m: [31mnao foi possivel conectar[39m
 2023-04-22 18:25:37 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.9ajgrm.mongodb.net[39m
 2023-04-22 18:26:16 - [31merror[39m: [31mnao foi possivel conectar[39m
+2023-04-23 15:18:43 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a80bp" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:18:57 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a80bp" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:57:19 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:58:11 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:58:38 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:59:00 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:59:13 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 15:59:39 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:11:38 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "445154" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:11:55 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:13:57 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a80b" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:15:22 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value " 644574ff22a90a70721a80b3" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:15:37 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "644574ff22a90a70721a80b" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:16:45 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "445154" (type string) at path "_id" for model "Movie"[39m
+2023-04-23 16:18:42 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6444610de49ff2f7c4d5eb1" (type string) at path "_id" for model "Movie"[39m
